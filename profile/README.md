@@ -6,3 +6,4 @@ Here's a list of social media profiles of Fiteya:
 - [Facebook](https://www.facebook.com/fiteyacom)
 - [YouTube](https://www.youtube.com/@fiteya)
 - [Telegram](https://t.me/fiteyacom)
+- [Crunchbase](https://www.crunchbase.com/organization/fiteya)
