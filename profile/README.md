@@ -5,3 +5,4 @@ Here's a list of social media profiles of Fiteya:
 - [Twitter](https://twitter.com/fiteyacom)
 - [Facebook](https://www.facebook.com/fiteyacom)
 - [YouTube](https://www.youtube.com/@fiteya)
+- [Telegram](https://t.me/fiteyacom)
